@@ -1,0 +1,18 @@
+{
+    "name": "voice.mateo-salta",
+    "description": "webapp for voice web",
+
+    "title": "voice",
+    "architecture": "@CLICK_ARCH@",
+    "hooks": {
+        "voice": {
+            "apparmor": "voice.apparmor",
+            "desktop":  "voice.desktop",
+            "urls": "voice.url-dispatcher"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mateo Salta <mateo_salta@yahoo.com>",
+    "framework" : "ubuntu-sdk-20.04"
+}
+

@@ -1,0 +1,10 @@
+[
+        {
+                "protocol": "http",
+                "domain-suffix": "voice.google.com"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "voice.google.com"
+        }
+]

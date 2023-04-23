@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Voice
+Comment=Morph based alternate Voice Webapp
+Exec=voice %U
+Terminal=false
+Type=Application
+Icon=assets/icon.png
+X-Ubuntu-Touch=true
+
+X-Ubuntu-Splash-Color=#ffffff
+#X-Ubuntu-SymbolicIcon=assets/icon.png
+X-Ubuntu-Splash-Image=assets/icon-splash.png
+
+

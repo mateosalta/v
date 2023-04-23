@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+6973479c50f2e96e69e88b9517ce985a CMakeFiles/voice.desktop
+0971ed1c3eb844db54fe0a5f91923cd4 CMakeFiles/voice_autogen
+525d4cde620b05542cef66d7ad9d39f7 app_Main_qml.cpp
+61f3c5623b191d4bee9618ba3f97c4aa app_UCSComponents_EmptyState_qml.cpp
+6c3b8425bd25c66c451717f651450b1b app_UCSComponents_RadialAction_qml.cpp
+9bc5498cf7ec3b3952776a36ee59c1c3 app_UCSComponents_RadialBottomEdge_qml.cpp
+48346b6e859ce3642d82218179e47b76 po/CMakeFiles/voice.mateo-salta.pot
+d02af5dfc144c7d1bd249ca97b4be663 qmlcache_loader.cpp

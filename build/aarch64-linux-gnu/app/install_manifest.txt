@@ -1,0 +1,7 @@
+//voice
+//manifest.json
+//voice.apparmor
+//voice.url-dispatcher
+//assets/icon.png
+//assets/icon-splash.png
+//voice.desktop
